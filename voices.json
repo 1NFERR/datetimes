@@ -1,5 +1,5 @@
 {
     "cacto0o": {"pitch_adjustment": 4, "model": "cacto0o.pth"},
     "5opka": {"pitch_adjustment": 4, "model": "5opka.pth"},
-    "MellSher": {"pitch_adjustment": 2, "model": "MellSher.pth"}
+    "MellSher": {"pitch_adjustment": 3, "model": "MellSher.pth"}
 }
