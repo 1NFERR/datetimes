@@ -35,7 +35,7 @@ You can loop the emote, with turning the 'isLoop' true and set the returnTick. I
 				"turn": 0,
 				"easing": "InOutSine",
 				"head":{
-					"yaw":-96
+					"yaw":96
 				}
 			},
 
