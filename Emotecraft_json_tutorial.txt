@@ -46,8 +46,8 @@ the 'tick' show the keyframe's location in MC time (20 ticks = 1 second)
 The 'easing' is the easing method after this frame.
 Easings are from https://easings.net/# + 'linear' + 'constant'
 you can use capital letters, you can write with ease or without. Both are correct:
-easeinoutsine
-InoUtSInE
+- easeinoutsine
+- InoUtSInE
 
 parts: head, torso, leftLeg, rightLeg, leftArm, rightArm.
 
