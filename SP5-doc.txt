@@ -8,6 +8,23 @@
 Заголовок: Сайт СП
 Второе после дискорда место коммуникации. Подробнее о функциях сайта в канале https://discord.com/channels/1033498664372555776/1033508426304737321.
 
+Заголовок: Вкладки сайта СП (spworlds.ru)
+Профиль - https://spworlds.ru/sp/users/@me
+Новости - https://spworlds.ru/sp/feed
+Кошелёк - https://spworlds.ru/sp/wallet
+Игроки - https://spworlds.ru/sp/users
+Сообщества - https://spworlds.ru/sp/groups
+Приложения - https://spworlds.ru/sp/apps
+Города - https://spworlds.ru/sp/cities
+Карта - https://spworlds.ru/sp/map
+Мероприятия - https://spworlds.ru/sp/events
+Суд - https://spworlds.ru/sp/lawsuits
+Ставки - https://spworlds.ru/sp/bets
+Петиции - https://spworlds.ru/sp/campaigns
+Вызовы - https://spworlds.ru/sp/call
+Настройки - https://spworlds.ru/sp/settings
+О сайте - https://spworlds.ru/sp/about
+
 Заголовок: Медиа СП
 На СП ведут свою деятельность, пусть и не всегда крупные, стримеры и ютуберы. В канале https://discord.com/channels/1033498664372555776/1033517292329377873 вы можете узнать об этом подробнее. 
 
